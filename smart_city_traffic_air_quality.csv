@@ -1,0 +1,11 @@
+city,time_of_day,traffic_volume,pm25,aqi,pollution_level
+Chennai,Morning,1200,35.2,68,High
+Chennai,Evening,1800,48.6,82,High
+Bangalore,Morning,950,28.4,55,Medium
+Bangalore,Evening,1400,39.1,70,High
+Delhi,Morning,2100,92.5,160,Severe
+Delhi,Evening,2600,110.3,190,Severe
+Hyderabad,Morning,800,26.7,50,Medium
+Hyderabad,Evening,1200,34.9,65,High
+Mumbai,Morning,1600,55.4,90,High
+Mumbai,Evening,2000,72.8,120,Very High
